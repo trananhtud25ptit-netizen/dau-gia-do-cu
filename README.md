@@ -88,5 +88,5 @@ npm run dev
 ```
 3. Mở trình duyệt tại địa chỉ:
 ## 6. Tài khoản dùng thử (Sau khi chạy `node seed.js`)
-- **Tài khoản Admin**: `admin@ptit.edu.vn` | Mật khẩu: `123456`
-- **Tài khoản Người dùng**: `viet@ptit.edu.vn` hoặc `khoi@ptit.edu.vn` | Mật khẩu: `123456`
+- **Tài khoản Admin**: 
+- **Tài khoản Người dùng**: 
